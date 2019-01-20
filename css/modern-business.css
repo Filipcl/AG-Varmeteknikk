@@ -4,6 +4,46 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
+
+.text-center{
+  opacity: 0.6;
+}
+#GoldingAS{
+  padding-bottom:15px;
+} 
+#footer_img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+ #footer_meny {
+	height: 84px;
+}
+
+.table {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;  
+  
+}
+
+ul#horizontal_list {
+	list-style: none;
+  padding-top: 20px;
+	}
+	ul#horizontal_list li {
+    display: inline;
+    padding-left: 7px;
+	}
+
+
+ #Header, #Header1{
+   padding-left: 50px;
+   padding-right: 50px;
+ }
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
